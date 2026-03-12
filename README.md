@@ -1,13 +1,13 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
+## Current Projects
+- Wallaby (A Next Generation Ollama Chat Client)
 - Fallout-Game-Rust
 - nixos-dotfiles
 - nvim
-- 🌱 I’m currently learning ...
-- Rust
-- MCP
-- Nix
-- 📫 How to reach me: kmalone42@outlook.com
+
+
+## 📫 Contact Me:
+- linkedin: https://www.linkedin.com/in/kmalone42/
+- email: kmalone42@outlook.com
 - 😄 Pronouns: she/her
 
 
